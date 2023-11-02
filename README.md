@@ -2,7 +2,7 @@
 - 👀 I’m interested in AIoT
 - 🌱 I’m currently learning IoT
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me gtj20031026@outlook.com
+- 📫 How to reach me 2926787580@qq.com
 
 <!---
 Natural-selection1/Natural-selection1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

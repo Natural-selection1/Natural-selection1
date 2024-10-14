@@ -50,3 +50,11 @@
 <p align="center">
 	<img style="margin: auto;" src=https://github-readme-stats.vercel.app/api?username=Natural-selection1&show_icons=true alt=sachinverma53121 />
 </p>
+
+
+If you want to talk to me or think my project has helped you
+![img](https://img2023.cnblogs.com/blog/3292968/202410/3292968-20241014191635250-1795959914.jpg)
+![img](https://img2023.cnblogs.com/blog/3292968/202410/3292968-20241014191646194-89728422.jpg)
+![img](https://img2023.cnblogs.com/blog/3292968/202410/3292968-20241014191652172-185009431.jpg)
+
+

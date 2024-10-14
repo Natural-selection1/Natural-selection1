@@ -52,9 +52,11 @@
 </p>
 
 
-If you want to talk to me or think my project has helped you
-![img](https://img2023.cnblogs.com/blog/3292968/202410/3292968-20241014191635250-1795959914.jpg)
-![img](https://img2023.cnblogs.com/blog/3292968/202410/3292968-20241014191646194-89728422.jpg)
-![img](https://img2023.cnblogs.com/blog/3292968/202410/3292968-20241014191652172-185009431.jpg)
+<br><br>
 
-
+<h3>If you want to talk to me or think my project has helped you</h4>
+<p align="left">
+  <img style="margin: auto;" src="https://img2023.cnblogs.com/blog/3292968/202410/3292968-20241014191635250-1795959914.jpg" alt=PayPal width="30%" height="30%"/>
+  <img style="margin: auto;" src="https://img2023.cnblogs.com/blog/3292968/202410/3292968-20241014191646194-89728422.jpg" alt=wechat width="29%" height="30%"/>
+  <img style="margin: auto;" src="https://img2023.cnblogs.com/blog/3292968/202410/3292968-20241014191652172-185009431.jpg" alt=Alipay width="25%" height="25%"/>
+</p>

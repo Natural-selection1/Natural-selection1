@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Natural-selection1
-- 👀 I’m interested in AIoT
-- 🌱 I’m currently learning IoT
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me nature_selection_@outlook.com
+👋 Hi, I’m @Natural-selection1
+![Teresa's GitHub stats](https://badgesystem.vercel.app/api?username=Natural-selection1&count_private=true)
 
-<!---
-Natural-selection1/Natural-selection1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Top Langs](https://badgesystem.vercel.app/api/top-langs/?username=Natural-selection1&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+📫 How to reach me nature_selection_@outlook.com
+

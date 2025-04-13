@@ -3,7 +3,7 @@
 
 
 <h3 align="center">A passionate student developer from China</h3>
-<h3 align="center">Bachelor in Engineering, Computer Science (To be graduated in 2026)</h3>
+<h3 align="center">Bachelor in Engineering, Computer Science (To be graduated in 2027)</h3>
 
 
 

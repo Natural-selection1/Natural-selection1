@@ -1,23 +1,18 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Hegui Dai</h1>
 <br/>
 
-
 <h3 align="center">A passionate student developer from China</h3>
 <h3 align="center">Bachelor in Engineering, Computer Science (To be graduated in 2027)</h3>
 
-
-
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-
-- 🔭 I’m currently working on **uniapp develop**
-- 🌱 I’m currently learning ... **Django and Vue.js**
+- 🌱 I’m currently learning ... **rust and C++**
 - ⚡ Fun fact ... **Heartstore**❤
 - 📫 How to reach me **natural_selection_@outlook.com**
 <h4>Programming Languages: </h4>
 <p align="left">
  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/cpp.png" alt=cplusplus width="60" height="60"/>
- <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/c.png" alt=c width="60" height="60"/>
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/rust.png" alt=c width="60" height="60"/>
  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/python.png" alt=python width="60" height="60"/>
 </p>
 

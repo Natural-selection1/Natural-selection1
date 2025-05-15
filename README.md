@@ -27,5 +27,3 @@
 <p align="center">
 	<img style="margin: auto;" src=https://github-readme-stats.vercel.app/api?username=Natural-selection1&show_icons=true alt=sachinverma53121 />
 </p>
-
-https://img2023.cnblogs.com/blog/3292968/202505/3292968-20250515084111916-1835883071.png

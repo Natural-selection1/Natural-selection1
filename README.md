@@ -21,8 +21,11 @@
 
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/vsc.png" alt=vs width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/win10.png" alt=windows10 width="60" height="60"/>
+  <img style="margin: auto;" src="https://img2023.cnblogs.com/blog/3292968/202505/3292968-20250515084111916-1835883071.png" alt=jujutsu width="60" height="60"/>
 </p>
 
 <p align="center">
 	<img style="margin: auto;" src=https://github-readme-stats.vercel.app/api?username=Natural-selection1&show_icons=true alt=sachinverma53121 />
 </p>
+
+https://img2023.cnblogs.com/blog/3292968/202505/3292968-20250515084111916-1835883071.png

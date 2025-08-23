@@ -1,7 +1,9 @@
 # 👋 Hey，你好！
 
-我是代何归.
+我叫代何归.
+
 A passionate student developer from China.
+
 Bachelor in Engineering, Computer Science (To be graduated in 2027).
 
 📫 How to reach me **natural_selection_@outlook.com**
@@ -19,6 +21,8 @@ Bachelor in Engineering, Computer Science (To be graduated in 2027).
     <img style="margin: auto;" src=https://github-readme-stats.vercel.app/api?username=Natural-selection1&show_icons=true alt=sachinverma53121 />
   </div>
 </div>
+
+---
 
 <!--START_SECTION:waka-->
 

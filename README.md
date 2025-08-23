@@ -1,7 +1,9 @@
 # 👋 Hey，你好！
 
 我叫代何归。
+
 A passionate student developer from China。
+
 Bachelor in Engineering, Computer Science (To be graduated in 2027)。
 
 📫 How to reach me **natural_selection_@outlook.com**

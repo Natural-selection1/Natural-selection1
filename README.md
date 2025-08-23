@@ -1,6 +1,8 @@
-Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, 我是代何归
-A passionate student developer from China
-Bachelor in Engineering, Computer Science (To be graduated in 2027)
+# 👋 Hey，你好！
+
+我是代何归.
+A passionate student developer from China.
+Bachelor in Engineering, Computer Science (To be graduated in 2027).
 
 📫 How to reach me **natural_selection_@outlook.com**
 

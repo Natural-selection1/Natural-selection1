@@ -4,10 +4,10 @@ A passionate student developer from China, Nanjing University Of Aeronautics And
 
 Bachelor in Engineering, Computer Science (To be graduated in 2027)。
 
-📫 
+📫 How to reach me **3415339403@qq.com**
+📫 My other account https://github.com/Yuria-Shikibe
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-<!-- How to reach me **natural_selection_@outlook.com** -->
   <div>
     <h4>Desktop Environment: </h4>
     <span>

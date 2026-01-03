@@ -27,15 +27,15 @@ Bachelor in Engineering, Computer Science (To be graduated in 2027)。
 **我最常使用 Rust** 
 
 ```text
-Rust                     13 repos            ████████████░░░░░░░░░░░░░   46.43 % 
-TypeScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
-Python                   5 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
-C++                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Rust                     13 repos            ████████████░░░░░░░░░░░░░   48.15 % 
+Python                   5 repos             █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
+TypeScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+C++                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 ```
 
 
 
 
- Last Updated on 03/01/2026 08:20:27 UTC
+ Last Updated on 03/01/2026 16:37:33 UTC
 <!--END_SECTION:waka-->

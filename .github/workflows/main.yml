@@ -22,3 +22,5 @@ jobs:
           SHOW_PROFILE_VIEWS: False
           SHOW_OS: False
           SHOW_PROJECTS: False
+          SHOW_EDITORS: False
+          

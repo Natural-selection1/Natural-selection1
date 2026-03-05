@@ -17,7 +17,7 @@ Bachelor in Engineering, Computer Science (To be graduated in 2027)。
     </span>
   </div>
   <div>
-    <img style="margin: auto;" src=https://github-readme-stats.vercel.app/api?username=Natural-selection1&show_icons=true alt=sachinverma53121 />
+    <!-- <img style="margin: auto;" src=https://github-readme-stats.vercel.app/api?username=Natural-selection1&show_icons=true alt=sachinverma53121 /> -->
   </div>
 </div>
 
